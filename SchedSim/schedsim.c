@@ -6,6 +6,8 @@
 #include "util.h"
 #include <stdbool.h>
 
+// reference/ help from:Benjamin Hoesli
+
 
 // Function to find the waiting time for all  
 // processes
